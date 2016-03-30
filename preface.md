@@ -68,7 +68,6 @@ Go语言编写的程序无需修改就可以运行在上面这些环境。
 
 本书是为了帮助你开始以有效的方式使用Go语言，充分利用语言本身的特性和自带的标准库去编写清晰地道的Go程序。
 
-<!-- 链接文件，用于被其它md文件包含 -->
 
 [AlanDonovan]:      https://github.com/adonovan
 [BrianKernighan]:   http://www.cs.princeton.edu/~bwk/
@@ -81,7 +80,7 @@ Go语言编写的程序无需修改就可以运行在上面这些环境。
 [TonyHoare]:        https://en.wikipedia.org/wiki/Tony_Hoare
 [FredBrooks]:       http://www.cs.unc.edu/~brooks/
 
-<!-- 图书 -->
+
 [gopl]:                     http://gopl.io
 [tcpl]:                     http://s3-us-west-2.amazonaws.com/belllabs-microsite-dritchie/cbook/index.html
 [TheCProgrammingLanguage]:  http://s3-us-west-2.amazonaws.com/belllabs-microsite-dritchie/cbook/index.html
