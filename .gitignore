@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+version.md
+gopl-zh-*
+_book.zip
